@@ -1,2 +1,2 @@
-# Personal-Projects
-Personal projects done  with my own intrest.
+# Mobile Shopping App
+This is an e-commerce website designed to shop the mobile phones.
